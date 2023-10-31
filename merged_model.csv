@@ -1,0 +1,40 @@
+segment,speaker_label,Transcript
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEB2AC80>,CALLER, Hello.
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEB2B520>,CALLEE, Hello.
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEB2A500>,CALLER, Welcome.
+<pydub.audio_segment.AudioSegment object at 0x000001EEC8340310>,CALLEE, Hi.
+<pydub.audio_segment.AudioSegment object at 0x000001F01653BDC0>,CALLER, So this is Akshay. I am calling from Awarajee.  Hello.  You have made a query on Facebook regarding travel booking to monthly reach.
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEB479A0>,CALLEE, Yeah.
+<pydub.audio_segment.AudioSegment object at 0x000001F0165398D0>,CALLER, Yeah.  Can I know the details like for which date has it looked?  For which date are you looking for it?
+<pydub.audio_segment.AudioSegment object at 0x000001F01653BAC0>,CALLEE, I am looking for a week forward from now.  For my friends and me.
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEBB7B50>,CALLER, How many people sorry?
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEBB7E50>,CALLEE, Total 5 including me.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9AE2A6B0>,CALLER, Okay. And can you confirm the date?
+<pydub.audio_segment.AudioSegment object at 0x000001EF9AE2A320>,CALLEE, It will be one week from now.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9AE2A500>,CALLER, So today is 16. 16 plus 7 that is 23 around like 23 24 right?
+<pydub.audio_segment.AudioSegment object at 0x000001F01653B1C0>,CALLEE, Yeah around 24.  Yeah.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9AE2A680>,CALLER, 24. Okay.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C290AF0>,CALLEE, Thank you.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C292500>,CALLER, Thank you.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C292530>,CALLEE, For 4 days and 5 nights.
+<pydub.audio_segment.AudioSegment object at 0x000001F01653BCD0>,CALLER, Okay for 4 days.  That is 5 days and 4 nights right?
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C2902E0>,CALLEE, Yeah.
+<pydub.audio_segment.AudioSegment object at 0x000001F01653BDF0>,CALLER, This is how it works.  Okay. So can I know your preferences like what kind of rooms are you looking for? Is it like you are looking for hotels or?  Blacklocker hostels or kind of a regard?
+<pydub.audio_segment.AudioSegment object at 0x000001F01653B700>,CALLEE, I think I will choose a resort.  It is better for me.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C292290>,CALLER, Resort with people.
+<pydub.audio_segment.AudioSegment object at 0x000001F016539CF0>,CALLEE, No.  It is already very cold here.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C292200>,CALLER, Sorry.
+<pydub.audio_segment.AudioSegment object at 0x000001EEC03CC5E0>,CALLEE, It is already very cold here.  So it is already very cold. Okay. Okay.  I will just.
+<pydub.audio_segment.AudioSegment object at 0x000001EEDFEC6E00>,CALLER," Okay, so we have two resorts near Newman Island.  Yeah, I will send you the details over WhatsApp. Will it work for you?"
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C2920E0>,CALLEE, Yeah sure.
+<pydub.audio_segment.AudioSegment object at 0x000001EEDFEFC640>,CALLER, Okay.  Anything else you want to ask?  Except the rooms. Like do you also looking for?  Transportation from Delhi. We provide transportation from Delhi to Manali.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C2913F0>,CALLEE," No, I am taking my own call."
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C2913C0>,CALLER, You are taking your own car. Okay.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C291390>,CALLEE, Okay.
+<pydub.audio_segment.AudioSegment object at 0x000001EEC8350580>,CALLER, Thank you.  Thank you.  And do you want to include any activities?
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEB2BC70>,CALLEE, I just have preference for my hotel or resort anything. If it can be near.  At Imbadhiva Temple.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C2925C0>,CALLER, Thank you.
+<pydub.audio_segment.AudioSegment object at 0x000001EF9C291720>,CALLEE, Thank you.
+<pydub.audio_segment.AudioSegment object at 0x000001EEC8367790>,CALLER, Can be near having. Okay. Noted.  And what about the activities? Are you looking for any activities in Manali?
+<pydub.audio_segment.AudioSegment object at 0x000001EEC8318940>,CALLEE," Not so much. We are there for only some fun.  You know, the boys fun."
+<pydub.audio_segment.AudioSegment object at 0x000001EEBEB2BC10>,CALLER," Okay. Got it.  Okay, so we will send you the details over WhatsApp. Please have a look and let us know what suits best for you.  Sure. Thank you. Okay. Thank you."
